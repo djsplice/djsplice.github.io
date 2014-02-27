@@ -1,4 +1,3 @@
 name: djsplice blog 
 markdown: redcarpet
 pygments: true
-baseurl: djsplice.github.io
