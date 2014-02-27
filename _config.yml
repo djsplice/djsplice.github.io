@@ -1,4 +1,4 @@
 name: djsplice blog 
 markdown: redcarpet
 pygments: true
-baseurl:
+baseurl: /
