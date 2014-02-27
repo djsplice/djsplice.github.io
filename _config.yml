@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Splice tech blog
+description:      All tech all the time.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -9,9 +9,9 @@ url:              http://djsplice.github.io
 
 # Owner/author information
 owner:
-  name:				Your Name
+  name:			    Jeff Barrows	
   avatar:			bio-photo.jpg
-  email:			you@email.com
+  email:			barrows.jeff+blog@gmail.com	
   signoff_text:		Till next time
   signoff_link:		/about
   signature_image:	signature.png
@@ -25,7 +25,6 @@ owner:
   instagram:      
   flickr:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
