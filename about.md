@@ -2,10 +2,10 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: Technologist 
-headline: Jeff Barrows 
-tags: [personal]
-modified: 2014-27-02
+description: Electrical Engineer, Mathematician, Entrepreneur
+headline: Hossain Mohammad Faysal
+tags: [Hossain, Mohd, Faysal]
+modified: 2013-11-04
 image:
   feature: Hossain-Mohd-Faysal.jpg
   credit:
