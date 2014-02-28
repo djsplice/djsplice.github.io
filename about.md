@@ -6,11 +6,11 @@ description: Technologist, Experimentor
 headline: Jeff Barrows
 tags: [Personal]
 modified: 2014-27-04
-image:
-  feature: 
-  credit: 
-  location: 
-  creditlink: 
+#image:
+#  feature: 
+#  credit: 
+#  location: 
+#  creditlink: 
 ---
 
 >"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."
