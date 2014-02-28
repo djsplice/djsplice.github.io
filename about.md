@@ -4,7 +4,7 @@ permalink: /about/index.html
 title: About
 description: Technologist 
 headline: Jeff Barrows 
-tags: personal 
+tags: [personal]
 modified: 2014-27-02
 image:
   feature: Hossain-Mohd-Faysal.jpg
