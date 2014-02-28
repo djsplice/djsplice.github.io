@@ -3,8 +3,8 @@ layout: page
 permalink: /about/index.html
 title: About
 description: Electrical Engineer, Mathematician, Entrepreneur
-headline: Hossain Mohammad Faysal
-tags: [Hossain, Mohd, Faysal]
+headline: Jeff Barrows 
+tags: [Barrows, Jeff]
 modified: 2013-11-04
 ---
 
