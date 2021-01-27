@@ -2,7 +2,7 @@
 
 title:            lmnt.co tech blog
 locale:           en_US
-url:              http://djsplice.github.io/
+url:
 
 
 # Jekyll configuration
@@ -23,22 +23,16 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
 # Site owner
 owner:
   name: Jeff Barrows
-  avatar: http://www.gravatar.com/avatar/27ff50338055cd0ec8b897d7314c2eb4.png
+  avatar: https://en.gravatar.com/userimage/40908708/27552523687ed38212e65e743b8a5b7a.jpg
   bio: "Innovation through applied technology."
   email:
   disqus-shortname: jeff-barrows
   twitter: barrows_jeff
   facebook: #username
   google:
-    plus: LmntCode
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
   bing-verify:
   github: djsplice
   stackoverflow: #http://stackoverflow.com/users/123456/username
