@@ -4,7 +4,7 @@ title: "For the record..."
 modified:
 categories:
 excerpt: "A strange thing happened on this day 6 years ago"
-tags: [pi, xig, chef]
+tags: [FYI]
 image:
   feature: sample-image-5.jpg
   credit: WeGraphics

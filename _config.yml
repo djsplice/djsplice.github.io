@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            lmnt.co tech blog
+title:
 locale:           en_US
 url:
 
@@ -27,12 +27,12 @@ kramdown:
 owner:
   name: Jeff Barrows
   avatar: https://en.gravatar.com/userimage/40908708/27552523687ed38212e65e743b8a5b7a.jpg
-  bio: "Innovation through applied technology."
+  bio: "Inside, Outside, Upside Down."
   email:
   disqus-shortname: jeff-barrows
-  twitter: barrows_jeff
+  twitter: #username
   facebook: #username
-  google:
+  google:  #username
   bing-verify:
   github: djsplice
   stackoverflow: #http://stackoverflow.com/users/123456/username
@@ -45,7 +45,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: dj_splice
   weibo: #username
   flickr: #username
 
