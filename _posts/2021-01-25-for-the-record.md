@@ -1,6 +1,10 @@
 ---
+layout: article
 title: For the record...
 tags: FYI
+header:
+  theme: dark
+mode: immersive
 article_header:
   type: cover
   image:

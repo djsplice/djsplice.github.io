@@ -42,3 +42,8 @@ I feel it's only right for me to share what I can in hopes it helps someone else
 * Brewing
 * Building
 * etc...
+
+## A note about transparency
+It's important for me to be very clear about sponsorships and paid promotions. Should I ever find myself in the fortunate position where I receive compensation like cash, demo units, or the such to create a blog post or video, I'll definitely let you know about it.
+
+I look forward to connecting with humans who have adopted growth mindset and share my passion for lifelong learning.   
