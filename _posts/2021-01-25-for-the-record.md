@@ -1,15 +1,10 @@
 ---
-layout: article
 title: For the record...
 tags: FYI
-header:
-  theme: dark
-mode: immersive
 article_header:
   type: cover
   image:
     src: /assets/images/sample-image-1.jpg
-cover: /assets/images/sample-image-1.jpg
 ---
 
 Well, I'm back. After 2 strong posts in 2015, I've decided to give it another go! Strange thing is apparently I had the same exact feeling, on the same exact day, at nearly the same EXACT time in 2015...

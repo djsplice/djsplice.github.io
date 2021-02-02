@@ -1,7 +1,8 @@
 ---
-layout: article
 title: "Automation First"
 modified:
+categories:
+excerpt: "A lesson learned, Automation First - It's a good thing! "
 tags: [pi, xig, chef]
 date: 2015-01-25T09:58:34-08:00
 comments: true
@@ -9,10 +10,12 @@ article_header:
   type: cover
   image:
     src: /assets/images/sample-image-3.jpg
-cover: /assets/images/sample-image-3.jpg
 ---
+
+## Automated Infrastructure Development
+
 It's a bit embarrassing to admit, given what I do for a living, but I've got a good practical example of why you might consider adopting an automated infrastructure development model, and Automate First!
-<!--more-->
+
 I've completely reversed my position on the topic of systems automation. If you were to have asked me several years ago about how I tackled systems automation, I would've probably said, well first, I manually install all the things to get the system working, then if I think I'm going to have to build the system again, I'd put the time and effort in to automate the setup.
 
 For the most part, the tools I was working with then were a bit cumbersome to use, so I always considered automation 'extra work' that I needed to do only to meet the requirements of standardization, consistency, and repeatability in a production environment. It was definitely not my standard approach to building systems.

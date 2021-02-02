@@ -1,16 +1,17 @@
 ---
-layout: article
 title: "Raspbian and Chef-Client"
+excerpt: "Bootstrapping Raspbian disk image with Chef client"
 tags: [pi, xig, chef]
 article_header:
   type: cover
   image:
     src: /assets/images/sample-image-2.jpg
 date: 2015-01-25T07:58:34-08:00
-cover: /assets/images/sample-image-2.jpg
+comments: true
 ---
+
 Here are the high level steps I followed to install the chef client on the Pi, and also create a disk image that contained the base os with the chef client pre-installed.
-<!--more-->
+
 These instructions are largely OSX specific.
 
 #### Transfer the Raspbian disk image to the SD card

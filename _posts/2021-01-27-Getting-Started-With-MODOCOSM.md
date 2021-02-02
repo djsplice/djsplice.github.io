@@ -20,7 +20,6 @@ Here's a YouTube video walking you through the setup of MODOCOSM and about 15 mi
 <div>{%- include extensions/youtube.html id='OE8eXPWIN3E' -%}</div>
 
 <!--more-->
-
 ## Prerequisites
 * This plugin was written using [Max For Live](https://docs.cycling74.com/max8/vignettes/max_for_live_topic), I believe you need to have Ableton Suite in order to use Max For Live plugins! I'm sorry if it doesn't work with Ableton Standard, I was a Standard user for a while until they had a good discount on updating to Ableton 11...
 * You need to have a Microcosm effects box for this to do much of anything as intended!

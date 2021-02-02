@@ -215,17 +215,6 @@ defaults:
       show_subscribe: true
       pageview: true
 
-collections:
-  music:
-    output: true
-  electronics:
-    output: true
-  3D-printing:
-    output: true
-  brew:
-    output: true
-collections_dir: _posts
-
 ## => Plugins
 ##############################
 plugins:
