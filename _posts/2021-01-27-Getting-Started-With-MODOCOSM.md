@@ -6,11 +6,17 @@ article_header:
   image:
     src: /assets/images/sample-image-6.jpg
 ---
-Thanks for your interest in this Max For Live plugin for Ableton. Hopefully you find that it inspires your creative use of the otherworldly Hologram Microcosm effects unit!
+Thanks for your interest in this Max For Live plugin for Ableton. Hopefully you find that it further inspires the creative use of the otherworldly Hologram Microcosm effects unit!
 
 This plugin is in no way affiliated with [Hologram Electronics](https://www.hologramelectronics.com/microcosm), rather, it's a personal project built by me used to interface with Microcosm while making music in Ableton!
 
-By now you've probably already read a bit about what MODOCOSM does, and are interested in getting it going yourself. You've come to the right place!
+By now you've probably already read a bit about what [MODOCOSM](/2021/01/27/modocosm.html) does and are interested in getting it going for yourself. You've come to the right place!
+
+## A Guided Tour
+Here's a YouTube video walking you through the setup of MODOCOSM and about 15 minutes of an audio demo with a few simple loops. Leave some coments and let me know what you think! For those who'd rather skip the video, I've written up a quick start guide below which will walk you through the setup.
+
+<div>{%- include extensions/youtube.html id='OE8eXPWIN3E' -%}</div>
+
 
 ## Prerequisites
 * This plugin was written using [Max For Live](https://docs.cycling74.com/max8/vignettes/max_for_live_topic), I believe you need to have Ableton Suite in order to use Max For Live plugins! I'm sorry if it doesn't work with Ableton Standard, I was a Standard user for a while until they had a good discount on updating to Ableton 11...
@@ -58,8 +64,3 @@ Here are a few screenshots:
 
 ### It's time to get lost! =)
 Time to explore... _WARNING!_: Time **will** start slipping away from you at this point. I'm easily able to spend hours at a time listening to the different sounds that emerge from this magical Microcosm effects unit.
-
-### A Guided Tour
-Here's a YouTube video walking you through the setup of MODOCOSM and about 15 minutes of an audio demo with a few simple loops. Leave some coments and let me know what you think!
-
-<div>{%- include extensions/youtube.html id='OE8eXPWIN3E' -%}</div>
