@@ -1,10 +1,12 @@
 ---
+layout: article
 title: Getting started with MODOCOSM
 tags: Ableton MaxForLive Music_Production
 article_header:
   type: cover
   image:
     src: /assets/images/sample-image-6.jpg
+cover: /assets/images/sample-image-6.jpg
 ---
 Thanks for your interest in this Max For Live plugin for Ableton. Hopefully you find that it further inspires the creative use of the otherworldly Hologram Microcosm effects unit!
 
@@ -17,6 +19,7 @@ Here's a YouTube video walking you through the setup of MODOCOSM and about 15 mi
 
 <div>{%- include extensions/youtube.html id='OE8eXPWIN3E' -%}</div>
 
+<!--more-->
 
 ## Prerequisites
 * This plugin was written using [Max For Live](https://docs.cycling74.com/max8/vignettes/max_for_live_topic), I believe you need to have Ableton Suite in order to use Max For Live plugins! I'm sorry if it doesn't work with Ableton Standard, I was a Standard user for a while until they had a good discount on updating to Ableton 11...

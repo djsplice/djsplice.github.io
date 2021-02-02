@@ -27,8 +27,11 @@ article_header:
   type: cover
   image:
     src: /assets/images/sample-image-1.jpg
-key: page-about
 ---
+I'm Jeff Barrows - you've found me!
+
+# Welcome to my Notes From the Garage blog
+Here you're likely to find posts about some of the projects I've been working on. Topics will vary over time and include things like electronic music production, sound design, coding/electronics projects, 3D Printing, and beer making.
 
 I've wanted to have a place to share some of the projects that I'm working on in hopes of inspiring others, or to simply share the creative process. I learn by doing, and have been able to build some really cool things in large part due to people being generous with their time by writing up blog posts, creating YouTube videos, sharing code, and providing helpful comments in various forums.
 
