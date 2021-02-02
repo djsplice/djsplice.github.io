@@ -33,7 +33,7 @@ Here's a YouTube video walking you through the setup of MODOCOSM and about 15 mi
 * While you're in setup mode ensure the Input/Output Mode is configured as desired (stereo sounds great)
 
 ## Download and Install MODOCOSM
-* Download MODOCOSM from the Max For Live site
+* Download MODOCOSM from the [Max For Live site](https://maxforlive.com/library/device/6942/modocosm)
 * Locate the downloaded file and move it to your Ableton -> User Library -> Presets -> MIDI Effects -> Max MIDI Effects folder. You can find the location of this folder on your computer by opening the Ableton Preferences -> Library tab.
 
 ![](/assets/images/AbletonPrefs.jpeg){: .center-image }
