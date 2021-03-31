@@ -60,7 +60,13 @@ All told, it took me about a week and 1Kg of filament to print out all of the pa
 
 If you're wondering about your machines print accuracy, I'd recommend starting with the 'gondola' parts - at least this is where I had the biggest challenges with tolerances. It's where the 8mm linear rails and bearings come together, and it's a really tight fit! My first prints didn't work at all, even using a utility knife to pare back the print to accommodate the hardware. I ended up using some hammer mechanics, and split the parts along the walls. You'll definitely need to get this component fitting together before you move on. In my opinion it's the most challenging part with little wiggle room (Exact-o, drill, and hammer aside).
 
-After my first failure, I didn't want to go through another 10 hour print only for it not to work, so I decided to mock up a small box that was similar to dimensions in the gondola design where the linear bearings would go... I printed using dimensions measured in original CAD diagram, then adjusted measurements with a slight increase in tolerance until the bearing would fit snuggly, but without fear of braking the part. I used my final number to make slight adjustments to the 'dimensional expansion' settings in my slicer (Cura) to make the part just a bit bigger (.18mm), and it seems to fit the parts much better. The rail motion isn't silky smooth, but so far isn't causing problems. This is something I'd probably re-print to get it dialed in.
+After my first failure, I didn't want to go through another 10 hour print only for it not to work, so I decided to mock up a small box that was similar to dimensions in the gondola design where the linear bearings would go... I printed using dimensions measured in original CAD diagram, then adjusted measurements with a slight increase in tolerance until the bearing would fit snuggly, but without fear of braking the part.
+
+Picture below shows box to the left with measurements as specified in original Sketchup design, and to the right with Horizontal Expansion set to -0.18 in Cura.
+
+![](/assets/images/linear-bearings-fit-test.jpg){: .center-image }{:width="480px"}
+
+I used my final number to make slight adjustments to the 'dimensional expansion' settings in my slicer (Cura) to make the part just a bit bigger (.18mm), and it seems to fit the parts much better. The rail motion isn't silky smooth, but so far isn't causing problems. This is something I'd probably re-print to get it dialed in.
 
 I also had similar problems with the small round 'skateboard wheel' style bearings. The pulley wheels they were supposed to fit in, split when using a hammer to tap them in. This one was a bit easier to simply redesign with slightly bigger tolerances for the bearing inserts (.15mm), and I was off to the races.
 
