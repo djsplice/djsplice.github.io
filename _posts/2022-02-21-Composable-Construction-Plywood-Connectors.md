@@ -4,7 +4,7 @@ tags: Furniture
 article_header:
   type: overlay
   background_image:
-    gradient: 'radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);'
+    gradient: 'linear-gradient(to right top, #f54ebf, #f86bc9, #fa83d3, #fb9adc, #fdafe4, #edaad7, #dca6cb, #cca1be, #a7839b, #84677a, #634c5b, #43323d);'
 layout: article
 key: 2022-02-21-Composable-Construction-Plywood-Connectors
 ---
