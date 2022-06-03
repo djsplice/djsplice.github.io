@@ -11,7 +11,7 @@ key: 2022-02-21-Composable-Construction-Plywood-Connectors
 
 ![](/assets/images/T-Black-and-white.jpg){: .center-image }
 
-_*T-Shaped connector for 6mm plywood_
+_*T-Shaped connector for 12mm plywood_
 <!--more-->
 
 ## Plywood Connectors for Composable Construction
