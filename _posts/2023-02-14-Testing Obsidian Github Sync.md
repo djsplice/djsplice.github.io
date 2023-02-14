@@ -8,8 +8,8 @@ article_header:
 layout: article
 key: 2023-02-14-Testing Obsidian Github Sync
 permalink: /
-embed: 
-   send: true
+embed:
+  send: true
 share: true
 ---
 This is a test of the potential fun times ahead. 
