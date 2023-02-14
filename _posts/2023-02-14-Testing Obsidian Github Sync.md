@@ -13,4 +13,4 @@ This is a test of the potential fun times ahead.
 
 I'm ready to be amazed!
 
-![[Pasted image 20230214125920.png]]
+![Pasted image 20230214125920.png](Pasted%20image%2020230214125920.png)
