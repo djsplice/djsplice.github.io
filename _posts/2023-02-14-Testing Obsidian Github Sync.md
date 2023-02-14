@@ -9,7 +9,8 @@ layout: article
 key: 2023-02-14-Testing Obsidian Github Sync
 permalink: /
 embed:
-  send: true
+  send: false
+  remove: true
 share: true
 ---
 This is a test of the potential fun times ahead. 
@@ -21,4 +22,3 @@ I'm ready to be amazed dd!
 
 Thhis is a tersxst
 
-![3D Printer latest settings](../3D%20Printer%20latest%20settings.md)
