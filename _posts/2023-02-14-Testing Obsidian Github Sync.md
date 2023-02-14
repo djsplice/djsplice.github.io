@@ -17,5 +17,4 @@ I'm ready to be amazed!
 
 ![Pasted image 20230214125920.png](../assets/images/Pasted%20image%2020230214125920.png)
 
-
-![Pasted image 20230214125920.png](../assets/images/Pasted%20image%2020230214125920.png)
+![3D Printer latest settings](../3D%20Printer%20latest%20settings.md)
