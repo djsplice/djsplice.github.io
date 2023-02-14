@@ -8,14 +8,17 @@ article_header:
 layout: article
 key: 2023-02-14-Testing Obsidian Github Sync
 permalink: /
-embed: true
+embed: 
+   send: true
 share: true
 ---
 This is a test of the potential fun times ahead. 
 
-I'm ready to be amazed!
+I'm ready to be amazed dd!
 
 
 ![Pasted image 20230214125920.png](../assets/images/Pasted%20image%2020230214125920.png)
+
+Thhis is a tersxst
 
 ![3D Printer latest settings](../3D%20Printer%20latest%20settings.md)
