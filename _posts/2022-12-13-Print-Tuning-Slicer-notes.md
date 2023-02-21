@@ -1,0 +1,73 @@
+---
+title: Print Tuning - Slicer notes
+tags: 
+article_header:
+  type: cover
+  image:
+    src: /assets/images/sample-image-5.jpg
+layout: article
+key: 2022-12-13-Print-Tuning-Slicer-notes
+permalink: /
+embed:
+  send: false
+  remove: true
+share: true
+---
+
+## Fastest Prints
+
+
+## Highest Quality Prints
+
+### Perimeters and Top/Bottom layers
+Nail down your Z-Offset otherwise you'll get elephants foot
+- 4 Perimeters
+- 5 Solid Top / Bottom Layers
+
+Only one perimeter - On top surfaces
+Overlapping external perimeters 100%
+
+### Bridges
+- Experimenting with 'Remove perimeters' on bridge areas, see if it improves bridge/wall quality in some scenarios like the top of the Z logo on the 30x30 calibration cube
+- Enabled![Pasted image 20221213061237.png](../assets/images/Pasted%20image%2020221213061237.png) 
+
+- Disabled
+![Pasted image 20221213061313.png](../assets/images/Pasted%20image%2020221213061313.png)
+
+Changed Flow -> Bridge type
+- Bridge flow baseline -> Keep current flow, Was set to nozzle diameter
+- I thought it was creating a thicker layer - but superslicer crashed and defaulted to a different machine type
+- Adjusted Bridge speed overhangs to 60% from 100%
+-  Resulted in good overhang, cleanest print but it was using the wrong filament profile!!
+	- Biggest change is EM set to .955 vs 1.04
+
+Cube 4
+- Used correct profile
+- Re-set to nozzle diameter
+- Adjusted Bridge line density min 80% max 100%
+- Resulted in good overhangs, but slight over extrusion on top right of Z logo
+	- Overhang layers slice at .4 and are connected
+
+Cube 5
+- Re-set to nozzle diameter
+	- Overhang layers slice at .31 and have a slight gap between them
+- Adjusted Bridge line density min 80% max 100%
+- Adjusted temp to 220 from 230
+
+### Layer Heights
+First layer height .25
+Base layer height .20
+Slice resolution 0.002
+
+Thicker layer heights makes overhangs easier to print
+
+### Infill
+Solid - Rectilinear (filled) - Connected
+Top - Monotonic (filled) - Connected
+- Can experiment with non-connected if [Small Infill Areas Look Overextruded | Ellis’ Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/articles/troubleshooting/small_infill_areas_overextruded.html)
+
+Retraction - Only retract when crossing perimeters
+
+### Speed
+Slowing down seemed to make the most improvements in quality. Here's my most current (12/13/22) speed settings
+![Pasted image 20221213054343.png](../assets/images/Pasted%20image%2020221213054343.png)
