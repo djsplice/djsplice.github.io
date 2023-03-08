@@ -2,7 +2,7 @@
 title: Klipper CAN Bus configuration
 tags: 
 article_header:
-  type: cover
+  type: overlay
   image:
     src: /assets/images/sample-image-5.jpg
 layout: article
@@ -13,6 +13,26 @@ embed:
   remove: true
 share: true
 ---
+<!--more-->
+### CAN bus breakout boards - What, Why, How?
+Over the past year or so, I've seen more and more people opt for adding a CAN enabled expansion board, typically to their tool head. The claim was that it would simplify wiring, eliminating a number of cables that extend from the main controller board to the extruder, hot-end, and end-stop switches.
+
+While I was interested in simplifying my wiring situation, I'd always been a bit put off by what I perceived  to be some significant additional complexity in setting up a CAN enabled breakout board. Well, my wiring situation recently became a bit unstable and started to see some unexpected thermistor issues with my Rapido hot-end that I knew were attributed to too much stress on the cables. It was time to take the plunge.
+
+Good news is, yes, my wiring from toolhead to main board is definitely cleaner/simpler. I'm down to 5 wires 2 for CAN, 2 for power, and 1 USB for my beacon probe...
+
+Yes it was somewhat challenging to setup and configure, hopefully the information here helps others!
+
+Yes I think it's a worthwhile modification, and would definitely do it again as part of my standard build.
+
+Additional potholes:
+- Re-crimping everything at the tool-head including: 
+	- hot-end thermistor, heat block and cooling fan
+	- direct drive stepper motor
+	- end-stop switch
+	- part cooling fans
+- Creating a custom mount for the EBB36 breakout board. I use a custom EVA tool carriage, and surprise, the breakout board wouldn't fit conveniently on the back of the stepper motor as in typical setups. This included modifying the EVA backplate and strain relief bracket.
+
 ### Configuration / Setup Overview
 1. Build Klipper with support for USB to CAN bus bridge *(no need for CanBoot on Octopus*)
 2. Flash Octopus with updated klipper config
