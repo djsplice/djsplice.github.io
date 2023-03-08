@@ -3,8 +3,8 @@ title: Klipper CAN Bus configuration
 tags: 
 article_header:
   type: overlay
-  image:
-    src: /assets/images/sample-image-5.jpg
+  background-image:
+   gradient: 'linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);'
 layout: article
 key: 2023-03-04-Klipper CAN Bus configuration
 permalink: /
@@ -13,6 +13,18 @@ embed:
   remove: true
 share: true
 ---
+
+
+title: Composable Construction - Plywood Connectors
+tags: Furniture
+article_header:
+  type: overlay
+  background_image:
+  gradient: 'linear-gradient(to right top, #f54ebf, #f86bc9, #fa83d3, #fb9adc, #fdafe4, #edaad7, #dca6cb, #cca1be, #a7839b, #84677a, #634c5b, #43323d);'
+layout: article
+key: 2022-02-21-Composable-Construction-Plywood-Connectors
+---
+
 <!--more-->
 ### CAN bus breakout boards - What, Why, How?
 Over the past year or so, I've seen more and more people opt for adding a CAN enabled expansion board, typically to their tool head. The claim was that it would simplify wiring, eliminating a number of cables that extend from the main controller board to the extruder, hot-end, and end-stop switches.
