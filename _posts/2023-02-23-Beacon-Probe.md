@@ -103,7 +103,7 @@ homing_retract_dist: 0               # beacon needs this to be set to 0
 
 I also had to update my [z_tilt] points to account for new probe offset.
 
-../assets/goood/fun
+./assets/goood/fun
 
 BLTouch Mesh
 ![Pasted image 20230225100416.png](../assets/images/Pasted%20image%2020230225100416.png)
