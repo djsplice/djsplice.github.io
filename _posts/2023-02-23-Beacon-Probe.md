@@ -7,7 +7,6 @@ article_header:
     gradient: 'radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);'
 layout: article
 key: 2023-02-23-Beacon-Probe
-permalink: /:year/:month/:day/
 embed:
   send: false
   remove: true
