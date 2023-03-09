@@ -13,6 +13,7 @@ embed:
   remove: true
 share: true
 ---
+<!--more-->
 ## Mount specifications
 ```
 Bolt hole centerline : 31.6mm
