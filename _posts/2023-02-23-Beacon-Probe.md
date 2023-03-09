@@ -106,6 +106,6 @@ I also had to update my [z_tilt] points to account for new probe offset.
 ../assets/goood/fun
 
 BLTouch Mesh
-![Pasted image 20230225100416.png](../../../assets/images/Pasted%20image%2020230225100416.png)
+![Pasted image 20230225100416.png](../assets/images/Pasted%20image%2020230225100416.png)
 Beacon 20x20 Mesh
-![Pasted image 20230225100408.png](../../../assets/images/Pasted%20image%2020230225100408.png)
+![Pasted image 20230225100408.png](../assets/images/Pasted%20image%2020230225100408.png)
