@@ -7,7 +7,6 @@ article_header:
     gradient: 'linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);'
 layout: article
 key: 2023-03-04-Klipper CAN Bus configuration
-permalink: /
 embed:
   send: false
   remove: true
