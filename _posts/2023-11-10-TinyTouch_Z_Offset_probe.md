@@ -7,14 +7,14 @@ article_header:
     gradient: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 layout: article
 key: 2023-11-10-TinyTouch Z Offset probe
-permalink: /
 embed:
   send: false
   remove: true
 share: true
 ---
 # TinyTouch Z Offset Probe
-
+Using a membrane potentiometer and an ATTiny85 to repeatably measure your probe z-offset
+<!--more-->
 ## What is this thing?
 It's a 'membrane potentiometer' that's typically used to register touch input, connected to an inexpensive microcontroller to more repeatably measure how far away a 3D printer nozzle is from its build surface.
 
