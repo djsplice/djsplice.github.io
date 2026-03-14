@@ -1,5 +1,5 @@
 ---
-title: From Free Downloads to Secure Delivery - In Support of the 3D Printing Creator Economy
+title: From Free Downloads to Secure Delivery - In Support of the  Creator Economy in 3D Printing
 date: 2026-02-28
 author: Jeff Barrows
 tags:
@@ -14,7 +14,7 @@ embed:
   remove: true
 share: true
 ---
-# From Free Downloads to Secure Delivery: In Support of the 3D Printing Creator Economy
+# From Free Downloads to Secure Delivery: In Support of the Creator Economy in 3D Printing
 
 For the last fifteen years, 3D Printing has been functionally synonymous with "Downloading Files." Whether you're on Thingiverse, Printables, or MakerWorld, the primary user action is the same: find a model, click a button, and save a raw STL file to your local disk.
 
