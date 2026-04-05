@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: "#134e5e"
   background_image:
-    gradient: "radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    gradient: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 layout: article
 key: 2026-03-06-From-Points-to-Profit
 share: true
