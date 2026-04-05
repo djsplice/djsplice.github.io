@@ -6,9 +6,10 @@ tags: [creator-economy, business-model]
 article_header:
   type: overlay
   background_image:
-    gradient: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    gradient: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
 layout: article
 key: 2026-03-06-From-Points-to-Profit
+excerpt_separator: <!--more-->
 embed:
   send: false
   remove: true
@@ -20,11 +21,11 @@ share: true
 ![Close up of a professional 3D printer nozzle printing a complex part](https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1200&q=80)
 *<div align="center"><sup>Photo by ThisisEngineering on Unsplash</sup></div>*
 
-If you are a professional 3D designer today, the consumer 3D printing market can be a deeply frustrating place. 
+If you are a professional 3D designer today, the consumer 3D printing market can be a deeply frustrating place. You spend dozens of hours modeling a complex, highly functional part, only to be entered into a gamified "points-farming" treadmill where the platform extracts the vast majority of the value. 
 
-You spend dozens of hours modeling a complex, highly functional part. You meticulously test tolerances, optimize overhangs, and dial in the perfect print orientation. Then, you upload it to one, or several, of the major platforms. 
+<!--more-->
 
-What happens next? You don't get paid for the value you created. Instead, you are entered into a gamified "points-farming" treadmill. You watch your file get downloaded hundreds of times, and in return, you are awarded platform points that you can eventually, maybe, trade in for a spool of filament or a small gift card. 
+What happens next? You don't get paid for the value you created. Instead, you watch your file get downloaded hundreds of times, and in return, you are awarded platform points that you can eventually, maybe, trade in for a spool of filament or a small gift card. 
 
 The platforms extract the vast majority of the value, using your free labor to sell more of their proprietary hardware or to inflate their own valuation metrics. This is the classic cycle of enshittification, and it is actively strangling the professional 3D design economy.
 
