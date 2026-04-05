@@ -18,7 +18,7 @@ share: true
 # Building a Sustainable Career in 3D Design: Moving from "Points Farming" to True Creator Agency
 
 ![Close up of a professional 3D printer nozzle printing a complex part](https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1200&q=80)
-*<div align="center"><sup>Photo by ThisisEngineering on Unsplash</sup></div>*
+<div align="center"><sup>*Photo by ThisisEngineering on Unsplash*</sup></div>
 
 If you are a professional 3D designer today, the consumer 3D printing market can be a deeply frustrating place. 
 
@@ -31,7 +31,7 @@ The platforms extract the vast majority of the value, using your free labor to s
 ## The Illusion of the \"Non-Commercial\" License
 
 ![An abstract arrangement of floating, duplicated 3D objects](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&w=1200&q=80)
-*<div align=\"center\"><sup>Photo on Unsplash</sup></div>*
+<div align=\"center\"><sup>*Photo on Unsplash*</sup></div>
 
 When a designer creates a massive hit, an articulated dragon, a stunning pop-culture bust, or an ingenious desk toy, they bring immense value to the platform. These models drive traffic, sell filament, and move proprietary hardware. Dare I say, these are the lifeblood of the 3D printing ecosystem; they are what keep hobbyists actively engaged with cool, inspiring things to print. The designers who create these viral hits deserve protection for their work, and they deserve fair compensation if they choose to commercialize it.
 
@@ -58,7 +58,7 @@ This isn't just a minor optimization; it's a paradigm shift. It allows a designe
 ## A New Class of Inventory
 
 ![A clean, professional engineering workspace with monitors and blueprints](https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80)
-*<div align=\"center\"><sup>Photo by ThisisEngineering on Unsplash</sup></div>*
+<div align=\"center\"><sup>*Photo by ThisisEngineering on Unsplash*</sup></div>*
 
 When we replace the points farming and subscription services treadmill with true Creator aligned control and actual profit sharing, we unlock an entirely new class of commerce.
 
