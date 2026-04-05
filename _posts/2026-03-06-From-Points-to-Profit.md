@@ -8,7 +8,7 @@ article_header:
   type: overlay
   theme: dark
   background_image:
-    gradient: radial-gradient(circle, rgba(76,132,156,1) 0%, rgba(31,61,74,1) 100%
+    gradient: radial-gradient(circle, rgba(76,132,156,1) 0%, rgba(31,61,74,1) 100%);
 layout: article
 key: 2026-03-06-From-Points-to-Profit
 share: true
