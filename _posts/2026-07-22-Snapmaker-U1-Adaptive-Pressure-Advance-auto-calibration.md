@@ -53,14 +53,13 @@ This is **printer-side Dynamic Flow Calibration** (a single PA per tool from the
 
 Here's my understanding of how it works:
 
-1. Within OrcaSlicer, you must disable the `Enable Pressure Advance` setting in your filament profile. If it's set, the printer will use the setting found in the sliced gcode; if it's not set, it will try and use values stored in `printer_data/config/snapmaker/flow_calibrator.json`.
+- Within OrcaSlicer, you must disable the `Enable Pressure Advance` setting in your filament profile. If it's set, the printer will use the setting found in the sliced gcode; if it's not set, it will try and use values stored in `printer_data/config/snapmaker/flow_calibrator.json`.
 
 ![OrcaSlicer filament setting — Enable Pressure Advance](/assets/images/apa-orca-enable-pa.png){: width="400"}
 
-2. You have to slice the model and 'Upload' it to the printer (not 'Upload and Print')
-3. You have to start the print job from the printer and select **Enable Dynamic Flow Calibration** from the printers screen.
-4. This has the printer perform a flow calibration routine before the actual print starts
-   1. Once completed the routine saves the Pressure Advance value (*per toolhead*) on the printer in `printer_data/config/snapmaker/flow_calibrator.json`. Default values are 0.02; you can see that I ran PA calibration on `extruder` and `extruder3`:
+- You have to slice the model and 'Upload' it to the printer (not 'Upload and Print')
+- You have to start the print job from the printer and select **Enable Dynamic Flow Calibration** from the printers screen.
+- This has the printer perform a flow calibration routine before the actual print starts. Once completed, the routine saves the Pressure Advance value (*per toolhead*) on the printer in `printer_data/config/snapmaker/flow_calibrator.json`. Default values are 0.02; you can see that I ran PA calibration on `extruder` and `extruder3`:
 
 ```json
 {
@@ -73,7 +72,7 @@ Here's my understanding of how it works:
 }
 ```
 
-I haven't fully traced reload behavior; treat these as per-tool stored defaults until you lock PA into an Orca filament profile.
+- I haven't fully traced reload behavior; treat these as per-tool stored defaults until you lock PA into an Orca filament profile.
 
 If you want to use this calibration value forever, you need to grab it from the console output, or from `flow_calibrator.json`, re-enable `Enable Pressure Advance` in OrcaSlicer, save the value AND save the settings as a Custom Profile.
 
