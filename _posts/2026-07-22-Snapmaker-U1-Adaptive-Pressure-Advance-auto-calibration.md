@@ -38,12 +38,12 @@ The Snapmaker U1 website doesn't have a lot of deep technical specs, however it 
 
 OK, lots of sensors and capabilities, but one in particular caught my eye - **Pressure Advance**.
 
-For me running calibration prints to determine Pressure advance has been a huge pain, and even after several prints, examining print lines with a magnifying glass, etc...
+For me, running calibration prints to determine Pressure advance has been a huge pain, and even after several prints, examining print lines with a magnifying glass, etc... I've never felt confident in my ability to accurately/consistently judge the correct value, plus it's time consuming!
 
 ![Printed pressure advance line test — several K values look similarly good](/assets/images/apa-pa-line-test.png)
 <div align="center"><sup>*0.015 looks good, but 0.020 does too — 0.00 looks ok too!*</sup></div>
 
-I've never felt confident in my ability to accurately/consistently judge the correct value, plus it's time consuming! While I _want_ to calibrate PA (_pressure advance_) for all of my filaments, I just can't bring myself to do it - instead I go YOLO and slap a generic 0.018 to 0.020 on it and call it a day, or more recently just use whatever's set in the manufacturers provided Orca profile setting.
+While I _want_ to calibrate PA (_pressure advance_) for all of my filaments, I just can't bring myself to do it - instead I go YOLO and slap a generic 0.018 to 0.020 on it and call it a day, or more recently just use whatever's set in the manufacturers provided Orca profile setting.
 
 ### Pressure Advance auto-calibration to the rescue!
 
@@ -73,7 +73,7 @@ Here's my understanding of how it works:
 }
 ```
 
-5. I haven't fully traced reload behavior; treat these as per-tool stored defaults until you lock PA into an Orca filament profile.
+I haven't fully traced reload behavior; treat these as per-tool stored defaults until you lock PA into an Orca filament profile.
 
 If you want to use this calibration value forever, you need to grab it from the console output, or from `flow_calibrator.json`, re-enable `Enable Pressure Advance` in OrcaSlicer, save the value AND save the settings as a Custom Profile.
 
@@ -110,7 +110,7 @@ These are the **default** 5 test points in the AutoCal macros (based on Snapmake
 | `stress`     | 250 mm/s | 10000 mm/s² | ~20.4 mm³/s         | Combined high flow + high acceleration                 |
 | `center`     | 200 mm/s | 6000 mm/s²  | ~16.3 mm³/s         | Mid-point print condition                              |
 
-Volumetric flow assumes the macro default line geometry (\(Q = v_{\mathrm{XY}} \times A_{\mathrm{line}}\), \(A_{\mathrm{line}} \approx 0.0814\) mm² for 0.4 nozzle / 0.2 layer / 0.45 width).
+Volumetric flow assumes the macro default line geometry: 0.4 nozzle / 0.2 layer / 0.45 width.
 
 ### Running the U1 Adaptive PA AutoCal macro
 
