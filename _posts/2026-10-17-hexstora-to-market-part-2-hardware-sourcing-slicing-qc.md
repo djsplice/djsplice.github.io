@@ -11,7 +11,7 @@ article_header:
   theme: dark
   background_color: "#2c3036"
   background_image:
-    gradient: radial-gradient(circle, rgba(184,146,58,0.92) 0%, rgba(44,48,54,1) 62%)
+    gradient: "linear-gradient(90deg, #1CB5E0 0%, #000851 100%)"
 layout: article
 key: 2026-10-17-hexstora-to-market-part-2-hardware-sourcing-slicing-qc
 embed:
