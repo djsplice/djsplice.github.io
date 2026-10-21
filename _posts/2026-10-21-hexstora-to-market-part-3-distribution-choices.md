@@ -33,6 +33,8 @@ I will look at direct physical retail via Etsy/Shopify, examine where print-on-d
 
 ## 1. The Fork in the Road: Two Divergent Business Models
 
+![IMG-20261021062930481.png](../assets/images/IMG-20261021062930481.png)
+
 When an independent creator finishes a great physical product design, they typically stand at a critical crossroads:
 
 ### Path A: The Digital File Treadmill (Patreon, Thangs, & Download Hubs)
@@ -61,6 +63,8 @@ Here are the cold, hard numbers contrasting these two models for a functional pr
 Generating 64 retail sales a month (a little over 2 per day) across Etsy, Shopify, and niche gaming communities is vastly more achievable and sustainable than maintaining 350 active paying patrons month after month.
 
 ## 3. The "Pressure Relief Valve": Why Print-on-Demand Unlocks Direct Retail Scale
+
+![IMG-20261021063127989.png](../assets/images/IMG-20261021063127989.png)
 
 ### The Invaluable First Step: Think Like a Manufacturer
 Running your own small 3D printer setup for prototyping and early fulfillment is almost a prerequisite for building a commercial product. As I saw in Part 2, printing your own test pieces forces you to complete the design process with real proof of printability: dialing in tolerances, building assembly jigs, and eliminating slicer support traps. 
