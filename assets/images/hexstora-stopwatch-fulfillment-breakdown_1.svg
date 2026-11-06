@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="620" viewBox="0 0 1200 620">
+  <title>hexstora-stopwatch-fulfillment-breakdown.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M0 0 L1200 0 L1200 620 L0 620 Z" fill="#14171c" stroke="#2a303c" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M73 38 L287 38 C294.18 38 300 43.82 300 51 L300 51 C300 58.18 294.18 64 287 64 L73 64 C65.82 64 60 58.18 60 51 L60 51 C60 43.82 65.82 38 73 38 Z" fill="#2d3748" stroke="#4a5568" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 76 55)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#a0aec0"><tspan x="0" y="0">STOPWATCH AUDIT &amp; EFFICIENCY</tspan></text>
+    <text transform="matrix(1 0 0 1 60 95)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="26" fill="#ffffff"><tspan x="0" y="0">The 20-Minute Stopwatch Fulfillment Breakdown</tspan></text>
+    <text transform="matrix(1 0 0 1 60 123)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#94a3b8"><tspan x="0" y="0">How pre-production engineering beat the 30-minute labor budget and boosted shop wages to $37.50/hr.</tspan></text>
+    <path d="M74 155 L296 155 C303.732 155 310 161.268 310 169 L310 431 C310 438.732 303.732 445 296 445 L74 445 C66.268 445 60 438.732 60 431 L60 169 C60 161.268 66.268 155 74 155 Z" fill="#181b22" stroke="#334155" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M87 171 L129 171 C135.075 171 140 175.925 140 182 L140 182 C140 188.075 135.075 193 129 193 L87 193 C80.925 193 76 188.075 76 182 L76 182 C76 175.925 80.925 171 87 171 Z" fill="#202632" stroke="#3b82f6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 88 186)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#3b82f6"><tspan x="0" y="0">STEP 1</tspan></text>
+    <text transform="matrix(1 0 0 1 76 229)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="28" fill="#ffffff"><tspan x="0" y="0">2.5 min</tspan></text>
+    <text transform="matrix(1 0 0 1 76 259)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="16" fill="#f1f5f9"><tspan x="0" y="0">Pick &amp; Deburr</tspan></text>
+    <path d="M76 275 L294 275" fill="none" stroke="#2a303c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 76 305)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Clear build plate of 5 trays.</tspan></text>
+    <text transform="matrix(1 0 0 1 76 329)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Tuned support blockers allow</tspan></text>
+    <text transform="matrix(1 0 0 1 76 353)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">instant, clean breakaways.</tspan></text>
+    <path d="M314 300 L332 300" fill="none" stroke="#475569" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4 4"/>
+    <path d="M350 155 L572 155 C579.732 155 586 161.268 586 169 L586 431 C586 438.732 579.732 445 572 445 L350 445 C342.268 445 336 438.732 336 431 L336 169 C336 161.268 342.268 155 350 155 Z" fill="#181b22" stroke="#334155" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M363 171 L405 171 C411.075 171 416 175.925 416 182 L416 182 C416 188.075 411.075 193 405 193 L363 193 C356.925 193 352 188.075 352 182 L352 182 C352 175.925 356.925 171 363 171 Z" fill="#202632" stroke="#10b981" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 364 186)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#10b981"><tspan x="0" y="0">STEP 2</tspan></text>
+    <text transform="matrix(1 0 0 1 352 229)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="28" fill="#ffffff"><tspan x="0" y="0">11.0 min</tspan></text>
+    <text transform="matrix(1 0 0 1 352 259)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="16" fill="#f1f5f9"><tspan x="0" y="0">Magnet Insertion</tspan></text>
+    <path d="M352 275 L570 275" fill="none" stroke="#2a303c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 352 305)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">22 bar magnets seated via jig.</tspan></text>
+    <text transform="matrix(1 0 0 1 352 329)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Polarity reference eliminates</tspan></text>
+    <text transform="matrix(1 0 0 1 352 353)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">errors and ruined parts.</tspan></text>
+    <path d="M590 300 L608 300" fill="none" stroke="#475569" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4 4"/>
+    <path d="M626 155 L848 155 C855.732 155 862 161.268 862 169 L862 431 C862 438.732 855.732 445 848 445 L626 445 C618.268 445 612 438.732 612 431 L612 169 C612 161.268 618.268 155 626 155 Z" fill="#181b22" stroke="#334155" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M639 171 L681 171 C687.075 171 692 175.925 692 182 L692 182 C692 188.075 687.075 193 681 193 L639 193 C632.925 193 628 188.075 628 182 L628 182 C628 175.925 632.925 171 639 171 Z" fill="#202632" stroke="#8b5cf6" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 640 186)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#8b5cf6"><tspan x="0" y="0">STEP 3</tspan></text>
+    <text transform="matrix(1 0 0 1 628 229)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="28" fill="#ffffff"><tspan x="0" y="0">1.5 min</tspan></text>
+    <text transform="matrix(1 0 0 1 628 259)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="16" fill="#f1f5f9"><tspan x="0" y="0">QC Snap-Fit Test</tspan></text>
+    <path d="M628 275 L846 275" fill="none" stroke="#2a303c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 628 305)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">360° rotation tolerance check.</tspan></text>
+    <text transform="matrix(1 0 0 1 628 329)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Stacked and mated every face</tspan></text>
+    <text transform="matrix(1 0 0 1 628 353)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">to confirm perfect snap fit.</tspan></text>
+    <path d="M866 300 L884 300" fill="none" stroke="#475569" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4 4"/>
+    <path d="M902 155 L1124 155 C1131.732 155 1138 161.268 1138 169 L1138 431 C1138 438.732 1131.732 445 1124 445 L902 445 C894.268 445 888 438.732 888 431 L888 169 C888 161.268 894.268 155 902 155 Z" fill="#181b22" stroke="#334155" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M915 171 L957 171 C963.075 171 968 175.925 968 182 L968 182 C968 188.075 963.075 193 957 193 L915 193 C908.925 193 904 188.075 904 182 L904 182 C904 175.925 908.925 171 915 171 Z" fill="#202632" stroke="#f59e0b" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 916 186)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#f59e0b"><tspan x="0" y="0">STEP 4</tspan></text>
+    <text transform="matrix(1 0 0 1 904 229)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="28" fill="#ffffff"><tspan x="0" y="0">5.0 min</tspan></text>
+    <text transform="matrix(1 0 0 1 904 259)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="16" fill="#f1f5f9"><tspan x="0" y="0">Box Packout</tspan></text>
+    <path d="M904 275 L1122 275" fill="none" stroke="#2a303c" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 904 305)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Fold 8x6x4 kraft mailer box.</tspan></text>
+    <text transform="matrix(1 0 0 1 904 329)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">Honeycomb wrap + care card</tspan></text>
+    <text transform="matrix(1 0 0 1 904 353)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#94a3b8"><tspan x="0" y="0">and thermal USPS label.</tspan></text>
+    <path d="M74 475 L1126 475 C1133.732 475 1140 481.268 1140 489 L1140 566 C1140 573.732 1133.732 580 1126 580 L74 580 C66.268 580 60 573.732 60 566 L60 489 C60 481.268 66.268 475 74 475 Z" fill="#0d2820" stroke="#10b981" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 86 511)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#34d399"><tspan x="0" y="0">LABOR EFFICIENCY RESULT</tspan></text>
+    <text transform="matrix(1 0 0 1 86 545)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="24" fill="#ffffff"><tspan x="0" y="0">20.0 Min Total Touch Time</tspan></text>
+    <text transform="matrix(1 0 0 1 86 567)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#a7f3d0"><tspan x="0" y="0">Budgeted 30.0 min allowance beaten by 10 minutes (33% time savings)</tspan></text>
+    <path d="M680 493 L680 562" fill="none" stroke="#154032" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 710 511)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#34d399"><tspan x="0" y="0">EFFECTIVE SHOP WAGE</tspan></text>
+    <text transform="matrix(1 0 0 1 710 545)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="24" fill="#34d399"><tspan x="0" y="0">$37.50 / Hour</tspan></text>
+    <text transform="matrix(1 0 0 1 710 567)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#e2e8f0"><tspan x="0" y="0">Up +50% from the $25.00/hr baseline floor ($12.50 earned in 20 min)</tspan></text>
+  </g>
+</svg>
