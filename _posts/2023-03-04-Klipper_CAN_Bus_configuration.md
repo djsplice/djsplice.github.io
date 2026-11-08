@@ -11,6 +11,7 @@ embed:
   send: false
   remove: true
 share: true
+cover: /assets/images/Pasted image 20230304062327.png
 ---
 <!--more-->
 ### CAN bus breakout boards - What, Why, How?

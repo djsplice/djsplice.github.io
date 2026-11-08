@@ -2,6 +2,7 @@
 title: "Building a Sustainable Career in 3D Design: Moving from 'Points Farming' to True Creator Agency"
 date: 2026-03-06
 author: Jeff Barrows
+cover: https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1200&q=80
 tags: [creator-economy, business-model]
 excerpt: "If you are a professional 3D designer today, the consumer 3D printing market can be a deeply frustrating place. Professional creators are currently trapped on a 'points-farming' treadmill, while their value is extracted by major platforms."
 article_header:

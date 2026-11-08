@@ -11,6 +11,7 @@ embed:
   send: false
   remove: true
 share: true
+cover: /assets/images/Pasted image 20231110055609.png
 ---
 
 ![Pasted image 20231110055609.png](../assets/images/Pasted%20image%2020231110055609.png)

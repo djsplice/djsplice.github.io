@@ -1,5 +1,6 @@
 ---
 title: For the record...
+cover: /assets/images/sample-image-1.jpg
 tags: FYI
 article_header:
   type: cover

@@ -11,6 +11,7 @@ embed:
   send: false
   remove: true
 share: true
+cover: /assets/images/Pasted image 20231110050518.png
 ---
 # TinyTouch Z Offset Probe
 Using a membrane potentiometer and an ATTiny85 to repeatably measure your probe z-offset

@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 3: The Distribution Fork in the Road)"
 date: 2026-10-21
 author: Jeff Barrows
+cover: /assets/images/IMG-20261021062930481.png
 tags:
   - 3d-printing
   - hexstora

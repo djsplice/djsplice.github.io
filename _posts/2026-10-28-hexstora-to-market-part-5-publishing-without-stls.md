@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 5: From Product Staging to Automated Retail)"
 date: 2026-10-28
 author: Jeff Barrows
+cover: /assets/images/connecting-wires-maker-desk.jpg
 tags:
   - 3d-printing
   - hexstora

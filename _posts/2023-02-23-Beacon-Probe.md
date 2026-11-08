@@ -11,6 +11,7 @@ embed:
   send: false
   remove: true
 share: true
+cover: /assets/images/Pasted image 20231110164506.png
 ---
 ![Pasted image 20231110164506](../assets/images/Pasted%20image%2020231110164506.png)
 The Beacon probe is a bed plate surface scanner that can create a thousand point bed mesh with sub-micron accuracy at 500mm/sec. It also acts as a Z end-stop switch which can be used for Z homing and bed leveling.

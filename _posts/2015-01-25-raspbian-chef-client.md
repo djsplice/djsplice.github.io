@@ -1,5 +1,6 @@
 ---
 title: "Raspbian and Chef-Client"
+cover: /assets/images/sample-image-2.jpg
 excerpt: "Bootstrapping Raspbian disk image with Chef client"
 tags: [pi, xig, chef]
 article_header:

@@ -7,6 +7,7 @@ article_header:
     src: /assets/images/sample-image-6.jpg
 layout: article
 key: 2021-2-18-studio-monitor-stands
+cover: /assets/images/krk-rokit7.jpg
 ---
 # Custom Speaker Stands
 Sometime around August of 2021 I decided it was time to upgrade my micro home studio and add a proper pair of monitors. I ultimately decided on a pair of [RP7 ROKIT G4's](https://www.krkmusic.com/Studio-Monitors/ROKIT-7-G4) near field monitors as they fit my budget, were powered, and of moderate size to fit well on my desk. After 6 or so months of use I'm still really happy with them. They've got more than enough power and produce a clear and balanced sound that has helped me get my mixes dialed in more quickly than with my old setup.

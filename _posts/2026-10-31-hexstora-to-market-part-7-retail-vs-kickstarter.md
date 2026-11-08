@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 7: Retail vs. Kickstarter with Real Receipts)"
 date: 2026-10-31
 author: Jeff Barrows
+cover: /assets/images/two-receipts-pilot-vs-kickstarter.svg
 tags:
   - 3d-printing
   - hexstora

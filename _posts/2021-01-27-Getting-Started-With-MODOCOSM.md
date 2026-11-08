@@ -6,6 +6,7 @@ article_header:
   image:
     src: /assets/images/sample-image-6.jpg
 key: 2021-01-27-Getting-Started-With-MODOCOSM
+cover: /assets/images/AbletonPrefs.jpeg
 ---
 Thanks for your interest in this Max For Live plugin for Ableton. Hopefully you find that it further inspires the creative use of the otherworldly Hologram Microcosm effects unit!
 

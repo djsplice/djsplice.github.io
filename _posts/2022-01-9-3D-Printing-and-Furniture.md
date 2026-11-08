@@ -7,6 +7,7 @@ article_header:
     gradient: 'radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);'
 layout: article
 key: 2022-01-9-3D-Printing-and-Furniture
+cover: /assets/images/dowell-connector.jpg
 ---
 Combine the capabilities of CAD, 3D Printing, basic woodworking tools and supplies to create fun, custom, budget friendly furniture!
 

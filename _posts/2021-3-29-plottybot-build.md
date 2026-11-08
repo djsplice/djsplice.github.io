@@ -7,6 +7,7 @@ article_header:
     gradient: 'linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);'
 layout: article
 key: 2021-3-29-plottybot-build
+cover: /assets/images/splot.jpg
 ---
 ![](/assets/images/splot.jpg){: .center-image }{:width="480px"}
 

@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 2: Hardware Sourcing, Slicing, and Shop-Floor QC)"
 date: 2026-10-17
 author: Jeff Barrows
+cover: /assets/images/IMG-20261017080139567.png
 tags:
   - 3d-printing
   - hexstora

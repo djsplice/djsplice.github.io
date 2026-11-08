@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 1: The Direct-to-Retail Hypothesis)"
 date: 2026-09-12
 author: Jeff Barrows
+cover: /assets/images/IMG-20260912122714937.jpg
 tags:
   - 3d-printing
   - hexstora

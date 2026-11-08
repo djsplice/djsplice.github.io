@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 6: First Real Order and Packout)"
 date: 2026-10-30
 author: Jeff Barrows
+cover: /assets/images/hexstora-unit-economics-waterfall.svg
 tags:
   - 3d-printing
   - hexstora

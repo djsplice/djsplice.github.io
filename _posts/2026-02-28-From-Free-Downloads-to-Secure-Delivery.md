@@ -1,5 +1,6 @@
 ---
-title: From Free Downloads to Secure Delivery - In Support of the  Creator Economy in 3D Printing
+title: From Free Downloads to Secure Delivery - In Support of the Creator Economy in 3D Printing
+cover: /assets/images/stl-protection-infographic.svg
 date: 2026-02-28
 author: Jeff Barrows
 tags:

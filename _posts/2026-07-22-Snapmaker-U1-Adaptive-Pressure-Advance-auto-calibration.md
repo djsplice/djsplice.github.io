@@ -2,6 +2,7 @@
 title: Snapmaker U1 Adaptive Pressure Advance auto-calibration
 date: 2026-07-22
 author: Jeff Barrows
+cover: /assets/images/apa-pa-line-test.png
 tags: [3d-printing, snapmaker, orcaslicer, klipper, pressure-advance]
 excerpt: "Use the U1 flow coil + macros to build an Orca Adaptive PA table in ~25 minutes of extrusion — no magnifying glass required."
 article_header:

@@ -2,6 +2,7 @@
 title: "Taking 3D Printed Products to Market (Part 4: The Real Cost of a 3D Print)"
 date: 2026-10-24
 author: Jeff Barrows
+cover: /assets/images/IMG-20261024164632360.png
 tags:
   - 3d-printing
   - hexstora
