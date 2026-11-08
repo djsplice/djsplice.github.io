@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="760" viewBox="0 0 1200 760">
+  <title>crowdfunding-treadmill-vs-compounding-catalog.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M0 0 L1200 0 L1200 760 L0 760 Z" fill="#14171c" stroke="#2a303c" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M73 38 L287 38 C294.18 38 300 43.82 300 51 L300 51 C300 58.18 294.18 64 287 64 L73 64 C65.82 64 60 58.18 60 51 L60 51 C60 43.82 65.82 38 73 38 Z" fill="#2d3748" stroke="#4a5568" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 83.432 55.381)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" font-weight="bold" fill="#ffffff"><tspan x="0" y="0">LONG-TERM BUSINESS STRATEGY</tspan></text>
+    <text transform="matrix(1 0 0 1 60 102.866)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="26" font-weight="600" fill="#ffffff"><tspan x="0" y="0">The Crowdfunding Treadmill vs. The Compounding Catalog</tspan></text>
+    <text transform="matrix(1 0 0 1 60 130.866)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#94a3b8"><tspan x="0" y="0">Comparing the 24-month cashflow realities of digital file crowdfunding against an evergreen physical retail catalog.</tspan></text>
+    <path d="M74 155 L566 155 C573.732 155 580 161.268 580 169 L580 706 C580 713.732 573.732 720 566 720 L74 720 C66.268 720 60 713.732 60 706 L60 169 C60 161.268 66.268 155 74 155 Z" fill="#1b1c22" stroke="#dc2626" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M74 155 L566 155 C573.732 155 580 161.268 580 169 L580 193 C580 200.732 573.732 207 566 207 L74 207 C66.268 207 60 200.732 60 193 L60 169 C60 161.268 66.268 155 74 155 Z" fill="#2b1418"/>
+    <text transform="matrix(1 0 0 1 84 187)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="17" fill="#fca5a5"><tspan x="0" y="0">The Crowdfunding Treadmill (Kickstarter)</tspan></text>
+    <path d="M402 169 L548 169 C554.627 169 560 174.373 560 181 L560 181 C560 187.627 554.627 193 548 193 L402 193 C395.373 193 390 187.627 390 181 L390 181 C390 174.373 395.373 169 402 169 Z" fill="#450a0a" stroke="#dc2626" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 405 185)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" font-weight="bold" fill="#f87171"><tspan x="0" y="0">FEAST OR FAMINE / $0 EQUITY</tspan></text>
+    <path d="M92 225 L548 225 C552.418 225 556 228.582 556 233 L556 337 C556 341.418 552.418 345 548 345 L92 345 C87.582 345 84 341.418 84 337 L84 233 C84 228.582 87.582 225 92 225 Z" fill="#20181b" stroke="#3f1f25" stroke-miterlimit="10"/>
+    <path d="M100 325 L536 325" fill="none" stroke="#475569" stroke-miterlimit="10"/>
+    <path d="M110 325 L140 245" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path d="M140 245 L170 325" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 122 240)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#fca5a5"><tspan x="0" y="0">+$14.5k</tspan></text>
+    <path d="M170 325 L250 325" fill="none" stroke="#ef4444" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="2 2"/>
+    <text transform="matrix(1 0 0 1 195 318)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#f87171"><tspan x="0" y="0">$0 / mo</tspan></text>
+    <path d="M250 325 L280 260" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path d="M280 260 L310 325" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 262 255)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#fca5a5"><tspan x="0" y="0">+$11k</tspan></text>
+    <path d="M310 325 L390 325" fill="none" stroke="#ef4444" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="2 2"/>
+    <path d="M390 325 L420 295" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <path d="M420 295 L450 325" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 405 290)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#fca5a5"><tspan x="0" y="0">Flop: +$3k</tspan></text>
+    <path d="M450 325 L530 325" fill="none" stroke="#ef4444" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="2 2"/>
+    <path d="M86 378 C86 373.029 90.029 369 95 369 C99.971 369 104 373.029 104 378 C104 382.971 99.971 387 95 387 C90.029 387 86 382.971 86 378 Z" fill="#2d1d24" stroke="#ef4444" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 114 375)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">The Day 31 Revenue Cliff</tspan></text>
+    <text transform="matrix(1 0 0 1 114 393)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Once the kickstarter campagn is concluded and you collect your payments, </tspan><tspan x="0" y="14.4">revenue drops instantly to $0.00/month. There is no recurring revenue stream.</tspan></text>
+    <path d="M86 438 C86 433.029 90.029 429 95 429 C99.971 429 104 433.029 104 438 C104 442.971 99.971 447 95 447 C90.029 447 86 442.971 86 438 Z" fill="#2d1d24" stroke="#ef4444" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 114 435)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">Runway vs. Profit</tspan></text>
+    <text transform="matrix(1 0 0 1 114 453)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">$14.5k is survival cash for rent &amp; groceries while building the next hit.</tspan></text>
+    <path d="M86 498 C86 493.029 90.029 489 95 489 C99.971 489 104 493.029 104 498 C104 502.971 99.971 507 95 507 C90.029 507 86 502.971 86 498 Z" fill="#2d1d24" stroke="#ef4444" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 114 495)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">The 3-4 Hits/Year Trap</tspan></text>
+    <text transform="matrix(1 0 0 1 114 513)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Must invent, film, prototype, and triage 3-4 intensive campaigns annually.</tspan></text>
+    <path d="M86 558 C86 553.029 90.029 549 95 549 C99.971 549 104 553.029 104 558 C104 562.971 99.971 567 95 567 C90.029 567 86 562.971 86 558 Z" fill="#2d1d24" stroke="#ef4444" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 114 555)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">Zero Equity Accrual</tspan></text>
+    <text transform="matrix(1 0 0 1 114 573)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Raw STLs are in the wild; pirate sites and resellers kill long-tail sales.</tspan></text>
+    <path d="M90 610 L550 610 C555.523 610 560 614.477 560 620 L560 690 C560 695.523 555.523 700 550 700 L90 700 C84.477 700 80 695.523 80 690 L80 620 C80 614.477 84.477 610 90 610 Z" fill="#241215" stroke="#ef4444" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 98 635)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#f87171"><tspan x="0" y="0">THE CROWDFUNDING VERDICT</tspan></text>
+    <text transform="matrix(1 0 0 1 98 658)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#cbd5e1"><tspan x="0" y="0">Fast upfront validation cash, but leaves you trapped on a permanent hamster</tspan></text>
+    <text transform="matrix(1 0 0 1 98 678)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#cbd5e1"><tspan x="0" y="0">wheel with zero long-term business equity or predictable revenue.</tspan></text>
+    <path d="M634 155 L1126 155 C1133.732 155 1140 161.268 1140 169 L1140 706 C1140 713.732 1133.732 720 1126 720 L634 720 C626.268 720 620 713.732 620 706 L620 169 C620 161.268 626.268 155 634 155 Z" fill="#15211f" stroke="#059669" stroke-width="1.5" stroke-miterlimit="10"/>
+    <path d="M634 155 L1126 155 C1133.732 155 1140 161.268 1140 169 L1140 193 C1140 200.732 1133.732 207 1126 207 L634 207 C626.268 207 620 200.732 620 193 L620 169 C620 161.268 626.268 155 634 155 Z" fill="#0c2e26"/>
+    <text transform="matrix(1 0 0 1 644 187)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="17" fill="#6ee7b7"><tspan x="0" y="0">The Compounding Retail Catalog </tspan><tspan x="0" y="20.4">(Protected POD)</tspan></text>
+    <path d="M987 169 L1108 169 C1114.627 169 1120 174.373 1120 181 L1120 181 C1120 187.627 1114.627 193 1108 193 L987 193 C980.373 193 975 187.627 975 181 L975 181 C975 174.373 980.373 169 987 169 Z" fill="#064e3b" stroke="#10b981" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 981.687 184.707)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" font-weight="bold" fill="#34d399"><tspan x="0" y="0">PERMANENT ASSET EQUITY</tspan></text>
+    <path d="M652 225 L1108 225 C1112.418 225 1116 228.582 1116 233 L1116 337 C1116 341.418 1112.418 345 1108 345 L652 345 C647.582 345 644 341.418 644 337 L644 233 C644 228.582 647.582 225 652 225 Z" fill="#13261f" stroke="#154032" stroke-miterlimit="10"/>
+    <path d="M660 325 L1096 325" fill="none" stroke="#475569" stroke-miterlimit="10"/>
+    <path d="M670 325 L750 305" fill="none" stroke="#10b981" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 700 300)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#a7f3d0"><tspan x="0" y="0">Prod uct 1</tspan></text>
+    <path d="M750 305 L840 280" fill="none" stroke="#10b981" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 785.476 275.74)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#a7f3d0"><tspan x="0" y="0">+Product 2</tspan></text>
+    <path d="M840 280 L940 255" fill="none" stroke="#10b981" stroke-width="2.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 890 246.293)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="10" fill="#a7f3d0"><tspan x="0" y="0">+Product 3</tspan></text>
+    <path d="M940 255 L1080 235" fill="none" stroke="#10b981" stroke-width="3" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 1014.259 221.414)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="11" fill="#34d399"><tspan x="0" y="0">$1,100 - $1,700/mo  Base</tspan></text>
+    <path d="M646 378 C646 373.029 650.029 369 655 369 C659.971 369 664 373.029 664 378 C664 382.971 659.971 387 655 387 C650.029 387 646 382.971 646 378 Z" fill="#064e3b" stroke="#10b981" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 674 375)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">Day 31 Is Just the Beginning</tspan></text>
+    <text transform="matrix(1 0 0 1 674 393)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Search rank, customer reviews, and organic marketplace momentum compound.</tspan></text>
+    <path d="M646 438 C646 433.029 650.029 429 655 429 C659.971 429 664 433.029 664 438 C664 442.971 659.971 447 655 447 C650.029 447 646 442.971 646 438 Z" fill="#064e3b" stroke="#10b981" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 674 435)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">Passive Baseline Floor</tspan></text>
+    <text transform="matrix(1 0 0 1 674 453)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Hexstora alone @ 10 units/mo yields ~$235/mo passive ($428/mo self-fulfilled).</tspan></text>
+    <path d="M646 498 C646 493.029 650.029 489 655 489 C659.971 489 664 493.029 664 498 C664 502.971 659.971 507 655 507 C650.029 507 646 502.971 646 498 Z" fill="#064e3b" stroke="#10b981" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 674 495)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">The Compounding Portfolio</tspan></text>
+    <text transform="matrix(1 0 0 1 674 513)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">4 products over 2 years generates $940 - $1,700+/mo recurring baseline.</tspan></text>
+    <path d="M646 558 C646 553.029 650.029 549 655 549 C659.971 549 664 553.029 664 558 C664 562.971 659.971 567 655 567 C650.029 567 646 562.971 646 558 Z" fill="#064e3b" stroke="#10b981" stroke-width="1.5" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 674 555)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="14" fill="#f1f5f9"><tspan x="0" y="0">Permanent Design Custody</tspan></text>
+    <text transform="matrix(1 0 0 1 674 573)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#94a3b8"><tspan x="0" y="0">Hardware-encrypted G-code prevents STL leaks, securing pricing power forever.</tspan></text>
+    <path d="M650 610 L1110 610 C1115.523 610 1120 614.477 1120 620 L1120 690 C1120 695.523 1115.523 700 1110 700 L650 700 C644.477 700 640 695.523 640 690 L640 620 C640 614.477 644.477 610 650 610 Z" fill="#0c2e26" stroke="#10b981" stroke-miterlimit="10"/>
+    <text transform="matrix(1 0 0 1 658 635)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="12" fill="#34d399"><tspan x="0" y="0">THE RETAIL POD VERDICT</tspan></text>
+    <text transform="matrix(1 0 0 1 658 658)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#e2e8f0"><tspan x="0" y="0">Recurring monthly royalties cover studio overhead and groceries BEFORE you</tspan></text>
+    <text transform="matrix(1 0 0 1 658 678)" x="0" y="0" xml:space="preserve" font-family="&apos;Source Sans 3&apos;" font-size="13" fill="#e2e8f0"><tspan x="0" y="0">even prototype product #2. Builds permanent, sellable catalog equity.</tspan></text>
+  </g>
+</svg>
